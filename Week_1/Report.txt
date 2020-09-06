@@ -1,0 +1,11 @@
+What I learned this week
+Difference b/w flatten and ravel
+Types of random methods
+What is a color palette and how to use it
+What is scatter plot and joint plot
+What is regplot and lmplot and the difference b/w the two
+What is kurtosis and types of it
+What is skewness and when to use it
+What is box whisker plot
+Basics of numpy and pandas
+Proper use of color combination to understand the plots
